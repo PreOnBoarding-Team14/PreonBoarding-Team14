@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 14번째 팀 화이팅하조의 공용 저장소 관리용 계정입니다!
 
-+ 조장 : 김영길 <a href="https://github.com/Gilpop8663">github</a>
-+ 조원 : 이나원 <a href="https://github.com/leenawon">github</a>
-+ 조원 : 유대형 <a href="https://github.com/ydh94">github</a>
-+ 조원 : 임보슬 <a href="https://github.com/limbs722">github</a>
-+ 조원 : 양성호 <a href="https://github.com/ysh0514">github</a>
++ 조장 : 김영길 <a target="_blank" href="https://github.com/Gilpop8663">github</a>
++ 조원 : 이나원 <a target="_blank"  href="https://github.com/leenawon">github</a>
++ 조원 : 유대형 <a target="_blank" href="https://github.com/ydh94">github</a>
++ 조원 : 임보슬 <a target="_blank" href="https://github.com/limbs722">github</a>
++ 조원 : 양성호 <a target="_blank" href="https://github.com/ysh0514">github</a>
