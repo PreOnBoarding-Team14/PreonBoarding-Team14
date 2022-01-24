@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 14번째 팀 화이팅하조의 공용 저장소 관리용 계정입니다!
 
-1.조장 : 김영길
-<middot> 조원 : 
++ 조장 : 김영길
++ 조원 : 
