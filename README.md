@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wanted x WeCode x ImpactCampus Pre OnBoarding Course FrontEnd 02기🚀 👋
 
 <!--
 **PreOnBoarding-Team14/PreonBoarding-Team14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 14번째 팀 화이팅하조의 공용 저장소 관리용 계정입니다!
+
+1.조장 : 김영길
+<middot> 조원 : 
